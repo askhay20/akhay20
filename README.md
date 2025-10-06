@@ -3,8 +3,19 @@
     <!--img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"-->
   </picture> Hello, I'm Askhay Pratap Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+Developer;A+Passionate+Coder;A+Passionate+Designer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+Developer;A+Passionate+Coder;A+Passionate+Designer" alt="Typing SVG" align="center">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=askhay20&label=Profile%20views&color=0e75b6&style=flat" alt="askhay20" /> </p>
 </h1>
+
+---
+### 🚀 About Me  
+- 👀 Interested in **Robotics software development, ML/DL, and edge AI**  
+- 🌱 Currently learning **Go, Backend, Automation**  
+- 💞️ Open to collaborating on **ML/DL, Web, and Open Source projects**  
+- 📫 Reach me at: **akpk820@gmail.com**  
+- 🌐 Portfolio/Resume: [Click Here](https://drive.google.com/file/d/17IAThdV75KTrSa4A8Hfa66CjXODwckMG/view?usp=sharing)  
+
+---
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
