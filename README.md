@@ -40,12 +40,10 @@
 
 - 📫 How to reach me:- 
 
-- ✅  singhshivam56@aol.com
+- ✅  akpk820@gmail.com
 
-- ✅  disocrd :- Shivam#8288
+- ✅  Instagram :- [askhay_20_](https://www.instagram.com/askhay_20_/)
 
-- ✅  Instagram :- [__shivam_0109_](https://www.instagram.com/_shivam_0109_/)
-
-- ✅  LinkedIn: [shivam](https://www.linkedin.com/in/shivamkumarsingh0109/)
+- ✅  LinkedIn: [askhay](https://www.linkedin.com/in/askhay-pratap-singh-403421229/)
 
 - ✅  Resume: [Link](https://drive.google.com/file/d/1pSMn6XzdUmT7FVdA7leprkQI3fZX07UL/view?usp=drive_link)
