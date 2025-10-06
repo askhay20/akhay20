@@ -16,7 +16,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p align="left">
-<a href="mailto:akpk820@gmail.com'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="askhay20" height="40" width="40" /></fa>
+<a href="mailto:akpk820@gmail.com?subject=Reaching%20out%20to%20you&body=Hi,%20I%20want%20to%20enquire%20about..." 
+   rel="noopener" 
+   target="_blank">
+  <img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" 
+       alt="askhay20" 
+       height="40" 
+       width="40" />
+</a>
+
 </a>
 <a href="https://www.linkedin.com/in/askhay-pratap-singh-403421229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamkumarsingh0109/" height="30" width="40" /></a>
 <a href="https://instagram.com/askhay_20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shivam_0109_" height="30" width="40" /></a>
@@ -46,4 +54,4 @@
 
 - ✅  LinkedIn: [askhay](https://www.linkedin.com/in/askhay-pratap-singh-403421229/)
 
-- ✅  Resume: [Link](https://drive.google.com/file/d/1pSMn6XzdUmT7FVdA7leprkQI3fZX07UL/view?usp=drive_link)
+- ✅  Resume: [Link](https://drive.google.com/file/d/17IAThdV75KTrSa4A8Hfa66CjXODwckMG/view?usp=sharing)
